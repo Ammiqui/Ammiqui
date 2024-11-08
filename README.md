@@ -17,7 +17,6 @@
             </ul>
         </nav>
     </header>
-
     <!-- Hlavní obsah -->
     <main>
         <section class="intro">

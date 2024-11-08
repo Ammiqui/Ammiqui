@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tripin_wom - Tvořím, Maluju a Píšu</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,7 +23,6 @@
         <section class="products">
             <h2>Moje umělecká díla</h2>
             <div class="product-item">
-                <img src="your-image-url.jpg" alt="Umělecké dílo 1">
                 <h3>Název Díla</h3>
                 <p>Krátký popis díla nebo produktu.</p>
                 <button>Koupit</button>
